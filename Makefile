@@ -69,3 +69,4 @@ install: $(OSTREE)
 # old BSD name, same as distclean
 cleandir: distclean
 .PHONY: cleandir
+yes
